@@ -1,2 +1,2 @@
 My palette for Terminator terminal emulator
-[!img](terminator color.png)
+[!img](https://github.com/conigliovenice/terminator-colors-config/blob/main/terminator%20color.png)
